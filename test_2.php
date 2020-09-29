@@ -13,3 +13,5 @@ usort($arr1, function($a,$b){
 echo "<pre>";
 var_dump($arr1);    
 echo "</pre>";
+
+echo "Sai";
