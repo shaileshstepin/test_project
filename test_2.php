@@ -15,3 +15,6 @@ var_dump($arr1);
 echo "</pre>";
 
 echo "Sai";
+echo "Siya-Ram";
+
+echo "Krishna";
